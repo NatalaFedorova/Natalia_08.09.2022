@@ -2,4 +2,4 @@ Hello
 hello
 hello
 helo
-cd
+cd - переход в папку
